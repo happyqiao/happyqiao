@@ -1,6 +1,9 @@
 <html>
 <head>
     <title>happyqiao 的 GitHub 主页</title>
+    <p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=                {TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    </p>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.0.0/github-markdown.min.css">
     <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到路飞小乔的主页!&center=true&size=27"> </a> </h1>
 </head>
