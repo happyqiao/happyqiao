@@ -1,59 +1,99 @@
-<html>
-<head>
-    <title>happyqiao 的 GitHub 主页</title>
-    <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=                {TITLE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={SUB_TITLE}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-    </p>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.0.0/github-markdown.min.css">
-    <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到路飞小乔的主页!&center=true&size=27"> </a> </h1>
-</head>
-<body>
-    <div class="container">
-        <div class="profile-section">
-            <img src="你的头像 URL" alt="你的头像" class="avatar">
-            <h1>[你的名字]</h1>
-            <p>[你的职业]</p>
-            <p>[你的兴趣领域]</p>
-        </div>
-        <div class="skills-section">
-            <h2>技能</h2>
-            <ul>
-                <li>[技能 1]</li>
-                <li>[技能 2]</li>
-                <li>[技能 3]</li>
-            </ul>
-        </div>
-        <div class="projects-section">
-            <h2>项目</h2>
-            <ul>
-                <li>[项目名称 1] - [项目描述] (<a href="[项目链接 1]">[项目链接 1]</a>)</li>
-                <li>[项目名称 2] - [项目描述] (<a href="[项目链接 2]">[项目链接 2]</a>)</li>
-                <li>[项目名称 3] - [项目描述] (<a href="[项目链接 3]">[项目链接 3]</a>)</li>
-            </ul>
-        </div>
-        <div class="blog-section">
-            <h2>博客</h2>
-            <p><a href="[你的博客链接]">[你的博客链接]</a></p>
-        </div>
-        <div class="social-media-section">
-            <h2>社交媒体</h2>
-            <ul>
-                <li><a href="[你的 Twitter 链接]">Twitter</a></li>
-                <li><a href="[你的 LinkedIn 链接]">LinkedIn</a></li>
-                <li><a href="[你的 GitHub 链接]">GitHub</a></li>
-            </ul>
-        </div>
-        <div class="contact-section">
-            <h2>联系我</h2>
-            <p>[你的电子邮件地址]</p>
-        </div>
-        <div class="other-info-section">
-            <h2>其他信息</h2>
-            <ul>
-                <li>[你的 GitHub 统计信息]</li>
-                <li>[你的 GitHub 贡献图]</li>
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+
+  <div>
+    <a>
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&pause=1400&width=500&lines=欢迎来到路飞小乔的主页，点点STAR!&center=true&size=30&color=00FF00" />
+    </a>
+  </div>
+
+</div>
+
+# 🚀来都来了，点点[STAR](https://github.com/happyqiao/happyqiao#)嘛
+  
+<tr><td>
+
+### 🚀 About Me 
+
+<img align="right" width="150" src="https://c-ssl.duitang.com/uploads/item/202003/25/20200325192350_mcliv.jpg" />
+<p>&emsp;&emsp;🧔我是路飞小乔，喜欢海贼王，喜欢路飞，是个有趣的灵魂！！！</p>
+<p>&emsp;&emsp;🧔2本9硕电子信息，非科班转算法，希望结交各位大佬！！！</p>
+<p>&emsp;&emsp;<strong>🫵Do you want to make friends with an interesting soul? Come and add me as your friend..</strong></p>
+<p>&emsp;&emsp; 🫱VX:ikun2552&emsp;&emsp;&emsp;&emsp; 🫱email:3120241383@bit.edu.cn</p>
+&emsp;&emsp;<a href="https://autofelix.blog.csdn.net">
+    <img src="https://img.shields.io/badge/CSDN Page View-145K-E65A65.svg" alt="" title="路飞小乔的csdn" />
+</a>
+&emsp;&emsp;&emsp;&emsp;<a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
+</td></tr>
+
+<tr><td>
+
+### 🚀 learning experience
+
+<img align="right" width="80" src="https://ts1.tc.mm.bing.net/th/id/R-C.a4cfaee71ec74c5485ca3321dd66fcf4?rik=6Uj%2b3H5paB4xGA&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2020%2f04-27%2f79248%2fwater_79248_698_698_.png&ehk=V7qwxwooHzl%2fzCv3wFzNODwVgN32E2MafxViEf5N2k4%3d&risl=&pid=ImgRaw&r=0" />
+
+- [魏公村汽配维修服务站](https://www.bit.edu.cn/) &emsp;&emsp; 📌 2024-09-01 —— 至今
+
+<img align="right" width="80" src="https://ts1.tc.mm.bing.net/th/id/R-C.ef09d0d759741a867f2bfea2d861f70d?rik=hFnj0RVDPje9Zw&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fw%2f2020%2f04-30%2f79534%2fwater_79534_698_698_.png&ehk=bA4SoTWhHDo%2fGnxRp%2f6tULPrzmlAR3%2fA%2fRiFFT%2f4Mlo%3d&risl=&pid=ImgRaw&r=0" />
+
+- [屯溪路男子职业技术学院](https://www.hfut.edu.cn/) &emsp; 📌 2020-09-01 —— 2024-06-01
+
+</td></tr>
+
+<tr><td>
+
+## 🚀 技能栈：
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
+  </a>（为了进入大厂持续学习中~~~~~💪）
+</p>
+
+<div align="center" >
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+
+![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
+
